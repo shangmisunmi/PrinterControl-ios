@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  PrinterDemo
+
+  Created by mark on 2020/7/3.
+  Copyright © 2020 mark. All rights reserved.
+*/
+
+
+"Connected printers" = "已连接打印机";
+"Encoding format" = "打印编码格式";
+"Print contents" = "打印内容";
+"Please connect the printer" = "请连接打印机";
+"Add Bluetooth printer" = "添加蓝牙打印机";
+"Add IP printer" = "添加IP打印机";
+"Connected" = "已连接";
+"Not selected" = "未选择";
+"Print" = "打印";
+"Searching for printers" = "正在搜索打印机";
+"The printer found will be displayed below" = "搜索到的打印机会显示在下方";
+"Please select a printer to connect to" = "请选择连接的打印机";
+"Searching" = "搜索设备中";
+"Printer list" = "设备列表";
+"Bluetooth printing" = "蓝牙打印";
+"Click to search for printers again" = "点击重新搜索打印机";
+"Trying to connect" = "正在连接";
+"Please connect the printe" = "请连接打印机";
+"Unknow" = "未知名称";
+"connection failed" = "连接失败";
+"search complete" = "搜索完成";
+"Disconnected" = "设备已断开";
+"Printer" = "打印机";
+"Cashdrawer" = "开钱箱";
+"PrintImage" = "打印图片";
+"PrintResult" = "获取状态";
+"00"  = "Unknown";
+"01" = "Not Printed";
+"02"  = "Printing";
+"03"  = "Printed";
+
+
+

@@ -1,0 +1,30 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - IQKeyboardManager (5.0.4)
+  - SVProgressHUD (2.2.5)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - IQKeyboardManager (= 5.0.4)
+  - SVProgressHUD
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - IQKeyboardManager
+    - SVProgressHUD
+    - YYKit
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  IQKeyboardManager: 1df9c0f147af1681cfb2d9977bc30309d45a7e76
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 6a396c1a78f5f8610664fb61359f8290589667e6
+
+COCOAPODS: 1.11.2
